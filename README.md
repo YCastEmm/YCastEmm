@@ -1,6 +1,6 @@
-# ¡Hola! Soy Yair Castagnola 👋
+# ¡Hola! Soy Yair Castagnola
 
-### 💻 Desarrollador Full Stack con experiencia en desarrollo web, UX y diseño de producto.
+### Desarrollador Full Stack con experiencia en desarrollo web, UX y diseño de producto.
 <br>
 Me gusta combinar creatividad y precisión técnica para diseñar soluciones que no solo funcionen, sino que también sean claras, atractivas y realmente útiles.
 
@@ -11,7 +11,7 @@ Siempre abierto a conectar con personas que compartan la pasión por la innovaci
 
 <br>
 
-## 🚀 Tecnologías que uso
+## Tecnologías que uso
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 &nbsp;&nbsp;
@@ -51,7 +51,7 @@ Siempre abierto a conectar con personas que compartan la pasión por la innovaci
 
 <br>
 
-## 📫 Contacto
+##  Contacto
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/yair-castagnola-900a14290/) - Perfil de LinkedIn
 <br>
